@@ -1,0 +1,15 @@
+{
+  "name": "express-boiler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SamStenton/express-boiler",
+  "author": "Samuel Stenton <sthstenton@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
